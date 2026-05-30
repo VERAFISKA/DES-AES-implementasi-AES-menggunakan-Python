@@ -1,0 +1,14 @@
+==================================================
+           DOKUMEN IDENTITAS MAHASISWA            
+==================================================
+Nama      : Vera Fiska
+NIM       : 105841112124
+Kelas     : 4D
+Prodi     : Informatika
+Fakultas  : Teknik
+TTL       : Pellengnge, 09 April 2026
+Alamat    : Desa Lapasa, Kec. Mare, Kab. Bone
+Pekerjaan : Mahasiswa
+--------------------------------------------------
+Status    : Terproteksi Algoritma AES-256 CBC
+==================================================
